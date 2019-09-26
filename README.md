@@ -1,6 +1,5 @@
 ## Networks
 
-  - [Json.Net.Unity3D](https://github.com/SaladLab/Json.Net.Unity3D) - Forked Newtonsoft.Json to support Unity3D
   - [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity
   - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET
   - [NetworkComms.Net](https://github.com/MarcFletcher/NetworkComms.Net) - A high performance cross-platform network library written in C#

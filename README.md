@@ -8,3 +8,4 @@
   - [Lidgren.Net](https://github.com/lidgren/lidgren-network-gen3) - A networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages
   - [gRPC](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
   - [NATS.Net](https://github.com/nats-io/nats.net) - The official C# Client for NATS
+  - [Mirror](https://github.com/vis2k/Mirror) - A community replacement for Unity's abandoned UNET Networking System

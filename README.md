@@ -9,3 +9,4 @@
   - [gRPC](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
   - [NATS.Net](https://github.com/nats-io/nats.net) - The official C# Client for NATS
   - [Mirror](https://github.com/vis2k/Mirror) - A community replacement for Unity's abandoned UNET Networking System
+  - [MirrorNG](https://github.com/MirrorNG/MirrorNG) - A high level Networking API for Unity, built and tested for MMO Scale Networking by the developers of Cubica, and optimized for ease of use and probability of success
